@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "ES6 - RequireJS - BrowserSync - Gulp",
+  "launch_path": "/index.html",
+  "description": "A minimal template with es6, requirejs, BrowserSync, Gulp",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "ES6 - RequireJS - BrowserSync - Gulp",
+      "description": "A minimal template with es6, requirejs, BrowserSync, Gulp"
+    }
+  }
+}
